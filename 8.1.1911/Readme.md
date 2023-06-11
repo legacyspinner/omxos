@@ -59,10 +59,6 @@ rpmbuild -bb --target=`uname -m` kernel.spec \
 kernel.spec 2> build-err.log | tee build-out.log
 </code>
 
-Guess I have to take a whole class on just:
-"HOW TO ADD IMAGES TO A GITHUB PAGE BY BROWSER!"
-
-
 <hr>
 <hr>
 
