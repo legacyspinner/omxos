@@ -59,6 +59,10 @@ rpmbuild -bb --target=`uname -m` kernel.spec \
 kernel.spec 2> build-err.log | tee build-out.log
 </code>
 
+Info over at :
+https://github.com/legacyspinner/el8-aarch64-kernel-4k-pages
+
+
 <hr>
 <hr>
 
