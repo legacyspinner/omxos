@@ -38,3 +38,4 @@ eg. for a quick wifi connection:
 
 Enable /etc/systemd/system/omxplayer.service, ***after**** you have entered your
 camera info and ***tested manually first*** or else it can be difficult to get a local console.
+*Note: Some improvements from the 8.1 kickstart/release have not been included in this yet.
