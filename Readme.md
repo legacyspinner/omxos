@@ -21,4 +21,5 @@ Current examples:
 
 
 
-(ARMv8-A (Cortex-A53), with Videocore IV GPU, BCM2837/BCM2837B0 SOCs)
+(These SOC's have ARMv8-A (Cortex-A53), with Videocore IV GPU)
+*older versions may work run, but support for 32bit without PE is complicated on some older units.
