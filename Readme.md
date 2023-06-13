@@ -22,4 +22,4 @@ Current examples:
 
 
 (These SOC's have ARMv8-A (Cortex-A53), with Videocore IV GPU)
-*older versions may work run, but support for 32bit without PE is complicated on some older units.
+*older versions may work run, but support for 32bit without PAE is complicated on some older units.
